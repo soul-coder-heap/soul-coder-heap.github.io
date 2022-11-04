@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>呦呦</title>
+    <link>https://soul-coder-heap.github.io/uu/</link>
+    <description>Recent content on 呦呦</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://soul-coder-heap.github.io/uu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Love</title>
+      <link>https://soul-coder-heap.github.io/uu/love/</link>
+      <pubDate>Fri, 04 Nov 2022 19:26:42 +0800</pubDate>
+      
+      <guid>https://soul-coder-heap.github.io/uu/love/</guid>
+      <description>if __name__ == &amp;#34;__main__&amp;#34;: while 1: print(&amp;#34;ai&amp;#34;) </description>
+    </item>
+    
+  </channel>
+</rss>

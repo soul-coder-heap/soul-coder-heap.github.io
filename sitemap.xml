@@ -2,16 +2,40 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://soul-coder-heap.github.io/en/sitemap.xml</loc>
+    <loc>https://soul-coder-heap.github.io/algo/sitemap.xml</loc>
     
       <lastmod>2022-11-04T15:30:53+08:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://soul-coder-heap.github.io/fr/sitemap.xml</loc>
+    <loc>https://soul-coder-heap.github.io/ml/sitemap.xml</loc>
     
       <lastmod>2022-11-04T15:30:53+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://soul-coder-heap.github.io/cv/sitemap.xml</loc>
+    
+      <lastmod>2022-11-04T15:30:53+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://soul-coder-heap.github.io/program/sitemap.xml</loc>
+    
+      <lastmod>2022-11-04T15:30:53+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://soul-coder-heap.github.io/other/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://soul-coder-heap.github.io/uu/sitemap.xml</loc>
     
   </sitemap>
   
