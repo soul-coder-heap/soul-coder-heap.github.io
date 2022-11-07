@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://soul-coder-heap.github.io/about/</loc>
+    <loc>https://soul-coder-heap.github.io/arts/</loc>
     <lastmod>2022-11-04T19:54:46+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://soul-coder-heap.github.io/about/post/love/</loc>
+    <loc>https://soul-coder-heap.github.io/arts/love/</loc>
     <lastmod>2022-11-04T19:54:46+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -114,11 +114,6 @@
   </url><url>
     <loc>https://soul-coder-heap.github.io/ml/chapter-1/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://soul-coder-heap.github.io/about/post/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
