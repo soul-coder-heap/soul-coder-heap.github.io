@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>[ 自动驾驶 ] on The world of the coder.</title>
+    <link>https://soul-coder-heap.github.io/driver/</link>
+    <description>Recent content in [ 自动驾驶 ] on The world of the coder.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Nothing is Mine</copyright>
+    <lastBuildDate>Fri, 04 Nov 2022 15:30:53 +0800</lastBuildDate><atom:link href="https://soul-coder-heap.github.io/driver/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bolg</title>
+      <link>https://soul-coder-heap.github.io/driver/bolg/</link>
+      <pubDate>Fri, 04 Nov 2022 15:30:53 +0800</pubDate>
+      
+      <guid>https://soul-coder-heap.github.io/driver/bolg/</guid>
+      <description>markdown</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://soul-coder-heap.github.io/driver/second-post/</link>
+      <pubDate>Thu, 03 Nov 2022 23:35:40 +0800</pubDate>
+      
+      <guid>https://soul-coder-heap.github.io/driver/second-post/</guid>
+      <description>std::thread std::async </description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://soul-coder-heap.github.io/driver/first-post/</link>
+      <pubDate>Thu, 03 Nov 2022 21:37:43 +0800</pubDate>
+      
+      <guid>https://soul-coder-heap.github.io/driver/first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter I: The Grand Hall</title>
+      <link>https://soul-coder-heap.github.io/driver/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://soul-coder-heap.github.io/driver/chapter-1/</guid>
+      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
+The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
+    </item>
+    
+  </channel>
+</rss>

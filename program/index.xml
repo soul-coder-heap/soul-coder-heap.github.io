@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>[ 前后端-算法-构架 ] on The world of the coder.</title>
+    <link>https://soul-coder-heap.github.io/program/</link>
+    <description>Recent content in [ 前后端-算法-构架 ] on The world of the coder.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Nothing is Mine</copyright>
+    <lastBuildDate>Fri, 04 Nov 2022 15:30:53 +0800</lastBuildDate><atom:link href="https://soul-coder-heap.github.io/program/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bolg</title>
+      <link>https://soul-coder-heap.github.io/program/bolg/</link>
+      <pubDate>Fri, 04 Nov 2022 15:30:53 +0800</pubDate>
+      
+      <guid>https://soul-coder-heap.github.io/program/bolg/</guid>
+      <description>markdown</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://soul-coder-heap.github.io/program/first-post/</link>
+      <pubDate>Thu, 03 Nov 2022 21:37:43 +0800</pubDate>
+      
+      <guid>https://soul-coder-heap.github.io/program/first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>归档 on The world of the coder.</title>
+    <link>https://soul-coder-heap.github.io/about/post/</link>
+    <description>Recent content in 归档 on The world of the coder.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Nothing is Mine</copyright>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://soul-coder-heap.github.io/about/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Love</title>
+      <link>https://soul-coder-heap.github.io/about/post/love/</link>
+      <pubDate>Fri, 04 Nov 2022 19:54:46 +0800</pubDate>
+      
+      <guid>https://soul-coder-heap.github.io/about/post/love/</guid>
+      <description>while 1: love() </description>
+    </item>
+    
+  </channel>
+</rss>
